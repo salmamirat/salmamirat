@@ -39,7 +39,7 @@ I build complete mobile applications, from the frontend to the API and the datab
 
 ## 🌍 Languages
 
-Arabic (native) · French (intermediate) · English (intermediate)
+Arabic (native) · French (good) · English (intermediate)
 
 ## 📫 Contact
 
